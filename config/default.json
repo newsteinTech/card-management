@@ -1,0 +1,11 @@
+{
+    "name": "My default Env",
+    "aws": {
+        "region": "eu-west-1"
+    },
+    "s3BucketName":"static.stg.msupply.in",
+    "fromEmail": "noreply@msupply.in",
+    "corsOrigins": [
+        "http://localhost:4200"
+    ]
+}
